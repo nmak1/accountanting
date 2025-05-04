@@ -1,0 +1,10 @@
+бухгалтерия/
+├── main.py
+├── dirty_main.py
+├── requirements.txt
+└── application/
+    ├── __init__.py
+    ├── salary.py
+    └── db/
+        ├── __init__.py
+        └── people.py
